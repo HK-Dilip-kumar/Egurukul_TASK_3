@@ -1,0 +1,161 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: century Gothic;
+}
+
+.head{
+	margin-top: -20px;
+	height: 80px;
+	width: auto;
+	background-color:#34495E;
+}
+.menu{
+	margin-left: 600px;
+	list-style-type: none;
+    display: block;
+}
+.menu li{
+	margin-top: 29px;
+	float: left;
+	font-size: 15px;
+}
+.menu li a{
+	color: #C3E7FF;
+	text-decoration: none;
+	margin-left: 15px;
+	padding: 15px;
+}
+.menu li a:hover{
+	display: acitve;
+	color: white;
+	transition: 1s ease-out;
+}
+
+.logo img{
+	float: left;
+	margin-top: 12px;
+	width: 175px;
+	height: 55px;
+	margin-left: 75px;
+}
+
+.carousel-inner{
+  width:100px;
+  height:400px;
+ }
+ .footer{
+ 	height: 250px;
+ 	width: 1519.2px;
+ 	background-color:#2ECC71;
+ }
+ .fa {
+  padding: 20px;
+  font-size: 70px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.fa-twitter {
+  background: #1B7A43;
+  color: white;
+  margin-left: 100px;
+}
+.twi{
+	width: 565px;
+	float: left;
+}
+.fa-facebook{
+background: #1B7A43;
+  color: white;	
+margin-left: 50px;
+}
+.fa-google{
+background: #1B7A43;
+  color: white;	
+margin-left: 50px;	
+}
+
+}
+.twi1{
+	margin-left: 100px;
+}
+.twi{
+	
+	width: 465px;
+	padding: 5px;
+	padding-left: 50px;
+}
+.face{
+	float: left;
+	margin-left: 20px;
+	width: 465px;
+}
+.google{
+	padding-left: 15px; 
+	}
+.para_div{
+		margin-top: -20px;
+		background-color: #2ECC71;
+		width: 1536px;
+		height: 220px;
+	}
+.para{
+	float: left;
+}
+.para1{
+	margin-left: 1200px;
+}
+.about{
+	color: white;
+	margin-left: 100px;
+	padding-top: 40px;
+}
+.para{
+	color: white;
+	margin-left: 100px;
+}
+.para1{
+	color: white;
+}
+.body1{
+	background-color: #F5F5F5;
+	margin-top: -18px;
+	height: 400px;
+	padding-top: 20px;
+	padding-left: 70px;
+}
+.bar{
+	width: 220px;
+	height: 250px;
+	margin-left: 70px;
+}
+
+/** {box-sizing:border-box}*/
+
+/* Container for skill bars */
+.container {
+  width: 50%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: center; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 5px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 90%; background-color: #4CAF50; margin-left: -15px;} /* Green */
+.css {width: 80%; background-color: #2196F3;margin-left: -15px;} /* Blue */
+.js {width: 65%; background-color: #f44336;margin-left: -15px;} /* Red */
+.php {width: 60%; background-color: #808080;margin-left: -15px;} /* Dark Grey */
+
+
+.current{
+	background-color: red;
+	border-radius: 10px;
+}
